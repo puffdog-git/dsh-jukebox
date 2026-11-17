@@ -1,0 +1,5 @@
+- insert:
+    - id: dsh-jukebox
+      name: dsh-jukebox
+      config:
+        enabled: true

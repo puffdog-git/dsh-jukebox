@@ -45,6 +45,12 @@ DSH 插件：一個音樂播放器，也可以當「Discord 賽博群友」的�
 ## 安裝
 
 ```bash
+dsh plugin --profile web add dsh-jukebox
+```
+
+也可以直接從 GitHub 安裝：
+
+```bash
 dsh plugin --profile web add github:puffdog-git/dsh-jukebox
 ```
 
